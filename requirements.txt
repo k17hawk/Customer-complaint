@@ -1,0 +1,15 @@
+requests
+jupyterlab
+pyspark
+PyYAML
+ipykernel
+pandas
+pymongo[srv]
+python-dotenv
+scipy
+scikit-learn
+tqdm
+apache-airflow
+connexion[swagger-ui]
+Flask-Session==0.5.0 
+-e .
